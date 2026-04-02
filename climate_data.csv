@@ -1,0 +1,13 @@
+temperature,humidity,wind_speed,rainfall,condition
+30,70,10,0,Normal
+35,80,15,1,Warning
+40,90,20,2,Risk
+28,60,5,0,Normal
+38,85,18,2,Risk
+32,75,12,1,Warning
+25,55,7,0,Normal
+42,95,25,3,Risk
+27,65,8,0,Normal
+36,82,16,1,Warning
+41,92,22,2,Risk
+29,68,9,0,Normal
