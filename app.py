@@ -6,7 +6,7 @@ import pandas as pd
 import time
 
 # Load model
-model = joblib.load('../model/climate_model.pkl')
+model = joblib.load('climate_model.pkl')
 
 st.set_page_config(page_title="AI Climate App", layout="wide")
 
